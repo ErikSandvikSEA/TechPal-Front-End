@@ -9,6 +9,7 @@ https://techpal.netlify.app
 - Redux
 - NodeJS (Back-End)
 - Material UI
+- Axios
 
 ## Features
 - As an owner of technology equipment, you can put items up for rent.
